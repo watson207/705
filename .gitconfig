@@ -1,0 +1,8 @@
+[user]
+	email = watson@bu.edu
+	name = Taylor Watson
+[core]
+	edit = nano
+	editor = nano
+[credential]
+	helper = store
